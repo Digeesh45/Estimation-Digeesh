@@ -253,9 +253,15 @@ fixtures = [
         "doctype": "Workflow",
         "filters": [["document_type", "=", "Estimation form"]]
     },
+
     {
         "doctype": "Role",
         "filters": [["name", "in", ["Estimation Approver", "Final Approver"]]]
+    },
+    
+    {
+        "doctype": "Report",
+        "filters": [["name", "=", "Project Estimation Summary"]]
     },
     {
         "doctype": "Property Setter",
