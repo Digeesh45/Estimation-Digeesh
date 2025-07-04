@@ -1,0 +1,388 @@
+[
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "digeesh.21it@kongu.edu",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "DD-EST",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "DD-EST",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-07-04 16:25:16.586639",
+  "last_ip": null,
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.72.4\"}, \"estimation_task_digeesh\": {\"title\": \"Estimation Task Digeesh\", \"description\": \"d\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.67.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.47.5\"}}",
+  "last_login": null,
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-07-04 16:09:10.585537",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2025-07-04 16:13:21.875703",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "digeesh.21it@kongu.edu",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "4da7a8284412452a96d48365a9d2a440b1a1bec6405a8471e3b279ef1aa924a5",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Estimation Approver"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Final Approver"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Academics User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Analytics"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Auditor"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Blogger"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Customer"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Expense Approver"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Interviewer"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock User"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Supplier"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Support Team"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Translator"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Workspace Manager"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "digeesh.21it@kongu.edu",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "4a20dca22db2b7d6b53509bb98036ff56ab9454",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Kolkata",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "dd_est",
+  "view_switcher": 1
+ }
+]

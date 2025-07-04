@@ -8,3 +8,6 @@ class Estimationform(Document):
     def on_update(self):
         if self.workflow_state == "Final Approved" and not self.approved_on:
             self.approved_on = nowdate()
+            def before_insert(self):
+                    self.created_on = now_date()
+

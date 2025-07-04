@@ -268,6 +268,19 @@ fixtures = [
         "filters": [["module", "=", "Estimation Task Digeesh"]]
     },
     {
+        "doctype": "User",
+        "filters": [["email", "in", ["digeesh.21it@kongu.edu"]]]
+    },
+    {
+        "doctype": "Has Role",
+        "filters": [["parent", "=", "digeesh.21it@kongu.edu"]]
+    },
+    {
+    "doctype": "Custom DocPerm",
+    "filters": [["role", "in", ["Estimation Approver", "Final Approver"]]]
+},
+
+    {
      "doctype": "Custom Field",
         "filters": [["module", "=", "Estimation Task Digeesh"]]
     }

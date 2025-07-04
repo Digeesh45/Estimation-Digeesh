@@ -1,0 +1,502 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "mieqmha6e4",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Estimation Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "mki7if4f04",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Final Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2ntnleb5",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Academics User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2sndl015",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2lpfa6mu",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2upk4i7u",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on24ians08",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on27uj73qr",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Analytics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on27dkeknf",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on29qvjc2g",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Blogger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2oco3mm2",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Customer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2hj0q558",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Dashboard Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2q89i8se",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2ogm35e7",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on28m4imbu",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Expense Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2gidn4lm",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2sqj0vt7",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fulfillment User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2r7obdkb",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on25osml4k",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on22p9shsl",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Inbox User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2c836vkp",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Interviewer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2jgn8l8k",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2hovra9i",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Contributor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2mo1jvj9",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Editor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2svqotnd",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Leave Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2888aqj7",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2o97fvkj",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2ee2h2h3",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2s2s8n40",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2n6sidkd",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Newsletter Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2uqppjqm",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Prepared Report User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2t2167ui",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on237gp11h",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2rtu4hvm",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2lo46nur",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on27q6qp5p",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on24lv9oe0",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on21g077hs",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Report Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2do3f55a",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2pqpdc4l",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on29t5qu5p",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2eq3j0bj",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Script Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on29f0tmgr",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on20327fip",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on217b94h3",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Supplier"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2f6u24lp",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on23ucg5cd",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on26o6pq1f",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Translator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2ftm669h",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-04 16:13:21.875703",
+  "name": "on2dvrqoda",
+  "parent": "digeesh.21it@kongu.edu",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Workspace Manager"
+ }
+]
