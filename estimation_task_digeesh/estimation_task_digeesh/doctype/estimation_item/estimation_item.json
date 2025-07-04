@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-07-03 20:53:52.137120",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_noc3",
+  "length",
+  "width",
+  "no_of_employees",
+  "rate",
+  "estimation_amount"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_noc3",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "length",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Length",
+   "reqd": 1
+  },
+  {
+   "fieldname": "width",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Width",
+   "reqd": 1
+  },
+  {
+   "fieldname": "rate",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Rate",
+   "reqd": 1
+  },
+  {
+   "fieldname": "estimation_amount",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Estimation Amount",
+   "read_only": 1
+  },
+  {
+   "fieldname": "no_of_employees",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "No of Employees",
+   "reqd": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-07-04 15:29:54.024318",
+ "modified_by": "Administrator",
+ "module": "Estimation Task Digeesh",
+ "name": "Estimation Item",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

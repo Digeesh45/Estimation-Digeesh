@@ -1,0 +1,36 @@
+{
+ "attach_print": 0,
+ "channel": "Email",
+ "condition": "doc.workflow_state == \"Final Approved\"\r\n",
+ "creation": "2025-07-03 22:36:36.321577",
+ "days_in_advance": 0,
+ "docstatus": 0,
+ "doctype": "Notification",
+ "document_type": "Estimation form",
+ "enabled": 1,
+ "event": "Save",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "<h3>Quotation Approved</h3>\r\n\r\n<p>Dear {{ doc.customer_name }},</p>\r\n\r\n<p>Your quotation for the project <strong>{{ doc.project_name }}</strong> has been <strong>approved</strong>.</p>\r\n\r\n<ul>\r\n  <li><strong>Project ID:</strong> {{ doc.project_id }}</li>\r\n  <li><strong>Total Estimated Amount:</strong> \u20b9{{ doc.total_estimated_amount }}</li>\r\n  <li><strong>Expected Start Date:</strong> {{ doc.expected_start_date }}</li>\r\n  <li><strong>Expected End Date:</strong> {{ doc.expected_end_date }}</li>\r\n</ul>\r\n\r\n<p><strong>Project Manager:</strong> {{ frappe.get_fullname(doc.owner) }}</p>\r\n\r\n<p>Thank you,<br>Your Estimation Team</p>\r\n",
+ "message_type": "Markdown",
+ "modified": "2025-07-04 08:39:55.146496",
+ "modified_by": "Administrator",
+ "module": "Estimation Task Digeesh",
+ "name": "Quotation Approval Email",
+ "owner": "Administrator",
+ "recipients": [
+  {
+   "receiver_by_document_field": "customer_email",
+   "receiver_by_role": "Estimation Approver"
+  },
+  {
+   "receiver_by_document_field": "customer_email",
+   "receiver_by_role": "Final Approver"
+  }
+ ],
+ "send_system_notification": 1,
+ "send_to_all_assignees": 0,
+ "sender": "Digeesh M S",
+ "sender_email": "digeeshsekara@gmail.com",
+ "subject": "Quotation Approved for {{ doc.project_name }}"
+}

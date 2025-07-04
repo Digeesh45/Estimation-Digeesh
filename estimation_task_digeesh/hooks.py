@@ -47,6 +47,9 @@ app_license = "mit"
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
+doctype_js = {
+    "Estimation Form": "public/js/estimation_form.js"
+}
 
 # Svg Icons
 # ------------------
@@ -242,3 +245,25 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+
+    {"doctype": "Dashboard", "filters": [["name", "=", "Estimation Dashboard"]]},
+
+    {
+        "doctype": "Workflow",
+        "filters": [["document_type", "=", "Estimation form"]]
+    },
+    {
+        "doctype": "Role",
+        "filters": [["name", "in", ["Estimation Approver", "Final Approver"]]]
+    },
+    {
+        "doctype": "Property Setter",
+        "filters": [["module", "=", "Estimation Task Digeesh"]]
+    },
+    {
+     "doctype": "Custom Field",
+        "filters": [["module", "=", "Estimation Task Digeesh"]]
+    }
+
+]

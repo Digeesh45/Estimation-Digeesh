@@ -1,0 +1,228 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "naming_series:",
+ "creation": "2025-07-03 20:21:10.675173",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_k5u2",
+  "naming_series",
+  "customer",
+  "customer_name",
+  "customer_address",
+  "customer_email",
+  "column_break_yszy",
+  "project_id",
+  "project_name",
+  "expected_start_date",
+  "expected_end_date",
+  "created_information_section",
+  "created_by",
+  "column_break_cl8o",
+  "created_on",
+  "approved_on",
+  "estimation_details_section",
+  "estimation_items",
+  "amended_from",
+  "summary_section",
+  "total_no_of_employees",
+  "column_break_tlva",
+  "total_estimated_amount"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_k5u2",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Estimation form",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fetch_from": "customer.customer_name",
+   "fieldname": "customer_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Customer Name",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fetch_from": "customer.customer_primary_address",
+   "fieldname": "customer_address",
+   "fieldtype": "Small Text",
+   "label": "Customer Address",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "customer.email_id",
+   "fieldname": "customer_email",
+   "fieldtype": "Data",
+   "label": "Customer Email",
+   "options": "Email",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_yszy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "project_id",
+   "fieldtype": "Link",
+   "label": "Project ID",
+   "options": "Project",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "project_id.project_name",
+   "fieldname": "project_name",
+   "fieldtype": "Data",
+   "label": "Project Name",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "project_id.expected_start_date",
+   "fieldname": "expected_start_date",
+   "fieldtype": "Date",
+   "label": "Expected Start Date"
+  },
+  {
+   "fetch_from": "project_id.expected_end_date",
+   "fieldname": "expected_end_date",
+   "fieldtype": "Date",
+   "label": "Expected End Date"
+  },
+  {
+   "fieldname": "created_information_section",
+   "fieldtype": "Section Break",
+   "label": "Created Information"
+  },
+  {
+   "default": "User",
+   "fieldname": "created_by",
+   "fieldtype": "Data",
+   "label": "Created By",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_cl8o",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "Today",
+   "fieldname": "created_on",
+   "fieldtype": "Date",
+   "label": "Created On",
+   "permlevel": 1,
+   "read_only": 1
+  },
+  {
+   "default": "Today",
+   "fieldname": "approved_on",
+   "fieldtype": "Date",
+   "label": "Approved On",
+   "read_only": 1
+  },
+  {
+   "fieldname": "estimation_details_section",
+   "fieldtype": "Section Break",
+   "label": "Estimation Details"
+  },
+  {
+   "fieldname": "estimation_items",
+   "fieldtype": "Table",
+   "label": "Estimation Items",
+   "options": "Estimation Item"
+  },
+  {
+   "fieldname": "summary_section",
+   "fieldtype": "Section Break",
+   "label": "Summary"
+  },
+  {
+   "fieldname": "total_no_of_employees",
+   "fieldtype": "Int",
+   "label": "Total No of Employees",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_tlva",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "total_estimated_amount",
+   "fieldtype": "Currency",
+   "label": "Total Estimated Amount"
+  },
+  {
+   "fieldname": "customer",
+   "fieldtype": "Link",
+   "label": "Customer",
+   "options": "Customer",
+   "reqd": 1
+  },
+  {
+   "default": "EST-.YYYY.-.MM.-.DD.-.###",
+   "fieldname": "naming_series",
+   "fieldtype": "Select",
+   "label": "Series",
+   "options": "EST-.YYYY.-.MM.-.DD.-.###"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2025-07-04 15:31:09.316815",
+ "modified_by": "Administrator",
+ "module": "Estimation Task Digeesh",
+ "name": "Estimation form",
+ "naming_rule": "By \"Naming Series\" field",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Estimation Approver",
+   "share": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "permlevel": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Estimation Approver",
+   "share": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

@@ -1,0 +1,26 @@
+{
+ "cards": [
+  {
+   "card": "Total Estimations"
+  }
+ ],
+ "chart_options": "{\r\n  \"colors\": [\"#5e64ff\", \"#ff5858\", \"#00d1b2\"]\r\n}\r\n",
+ "charts": [
+  {
+   "chart": "Estimation Monthly Total",
+   "width": "Full"
+  }
+ ],
+ "creation": "2025-07-04 14:11:44.573649",
+ "dashboard_name": "Estimation Overview",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2025-07-04 14:16:59.393722",
+ "modified_by": "Administrator",
+ "module": "Estimation Task Digeesh",
+ "name": "Estimation Overview",
+ "owner": "Administrator"
+}
